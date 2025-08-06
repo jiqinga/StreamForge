@@ -6,7 +6,8 @@ venv/
 .ruff_cache/
 .pytest_cache/
 docs/
-
+strm_output/
+strm_uploads/
 # Tortoise ORM generated files
 .mypy_cache/
 *.sqlite3
